@@ -754,7 +754,7 @@ done4:
 
 	j decision
 
-##functions below are all helper function written by txu25
+##below are all helper functions
 
 	
 
@@ -1408,7 +1408,7 @@ done:
 
 ##---------------------------------------------------------------------------
 
-## Everything below are provided by the TAs in _shared/Lab7 and _shared/Lab8
+
 
 ##
 
